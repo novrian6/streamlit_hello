@@ -1,5 +1,5 @@
 import streamlit as st
-st.title ("Hi I am streamlit")
+st.title ("Hi I am NEW streamlit ")
 st.subheader("Hi I am your subheader")
 st.header ("I am header")
 st.text("Hi I am text")
